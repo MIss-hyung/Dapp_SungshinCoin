@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Tomcat 8">
+    <ANNOTATIONS>
+      <root url="file://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.5" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.5" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.5" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.5" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.5" />
+    </SOURCES>
+    <jarDirectory url="file://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.5" recursive="false" />
+    <jarDirectory url="file://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.5" recursive="false" type="SOURCES" />
+  </library>
+</component>
